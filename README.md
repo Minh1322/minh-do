@@ -1,8 +1,20 @@
-## Hey 👋, This is Minh Do
-[![Gmail Badge](https://img.shields.io/badge/-minhdo1322@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:minhdo1322@gmail.com)](mailto:minhdo1322@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Minh Do-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Minh Do/)](https://www.linkedin.com/in/Minh Do/) [![Github Badge](https://img.shields.io/badge/-Minh1322-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Minh1322/)](https://www.github.com/Minh1322/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://minh1322.github.io/Minh.github.io//)](https://minh1322.github.io/Minh.github.io//) <p align='left'>I am a passionate individual with about 4 years of experience in data analytics. I found it fascinating that I could solve real-world problems with data and make data-driven decisions, so that is why I decided to pursue this career.</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Minh1322 alt=Minh1322 /> </p>
+<h1 align="center">Hi 👋, I'm Minh Do</h1>
+<h3 align="center">A Passionate Data Analyst</h3>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Minh1322&show_icons=true&include_all_commits=true)](https://github.com/Minh1322/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minh1322&layout=compact)](https://github.com/Minh1322/github-readme-stats)
+- 🔭 I’m currently working on **improving and expanding my knowledge of data analytics.**
+
+- 🌱 I’m currently learning about **data analytics and machine learning.**
+
+- 👨‍💻 All of my projects are available at [https://minh1322.github.io/Minh.github.io/](https://minh1322.github.io/Minh.github.io/)
+
+- 📫 How to reach me **minhdo1322@gmail.com**
+
+- ⚡ Fun fact **I love to watch and play sports like football and soccer.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/minh-h-do" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minh-h-do" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
